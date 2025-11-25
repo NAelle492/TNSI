@@ -28,16 +28,16 @@ echo -e "Fin d'installation des utilitaires...\n\n\n\v"
 
 ####DEBUT de Config git#####
 #remplacer "MoonsieurNSI" par votre "user" github
-git config --global user.name "NA"
+git config --global user.name "NAelle492"
 
 #modifier l'email avec votre "email" github
-git config --global user.email "patrice.nicolas7@monlycee.net"
+git config --global user.email "naellegv@gmail.com"
 
 git config --global --list
 
 #cle ssh
 #modifier l'email avec votre "email" github
-ssh-keygen -t ed25519 -C "patrice.nicolas7@monlycee.net"
+ssh-keygen -t ed25519 -C "naellegv@gmail.com"
 ####FIN de Config git#####
 
 
